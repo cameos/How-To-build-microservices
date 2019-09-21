@@ -1,4 +1,4 @@
-# How-To-build-microservices
+# What you need to know about microservices (what are they and how to build them).
 
  - Distributed systems have become more fine-grained in the past years, shifting from code-heavy monolithic applications to smaller, self-contained microservices.
  - Some applications are still monolithic and developers should move away from monolithic in favor of microservices architecture.
