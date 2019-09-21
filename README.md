@@ -18,3 +18,5 @@ read more on these sites
  - https://codeburst.io/using-rabbitmq-for-microservices-communication-on-docker-a43840401819
  - https://dzone.com/articles/rabbitmq-in-microservices
  - https://stackoverflow.com/a/45232259/4587917
+ - https://nordicapis.com/what-is-the-difference-between-apis-and-microservices/
+ - https://nordicapis.com/the-business-caveats-of-microservices/
