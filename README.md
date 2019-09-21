@@ -16,3 +16,5 @@ read more on these sites
  - https://microservices.io/
  - https://microservices.io/patterns/index.html
  - https://codeburst.io/using-rabbitmq-for-microservices-communication-on-docker-a43840401819
+ - https://dzone.com/articles/rabbitmq-in-microservices
+ - https://stackoverflow.com/a/45232259/4587917
